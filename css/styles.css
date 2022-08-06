@@ -1,0 +1,38 @@
+
+.top-containor
+{
+  background-color: #AF7AB3;
+position: relative;
+padding-top: 100px;
+}
+.middle-containor
+{
+background-color: #AF7AB3;
+}
+.bottom-containor
+{
+background-color: #AF7AB3;
+}
+h1
+{
+font-family: 'Sacramento', cursive;
+margin: 0 auto;
+width: 10%;
+}
+body
+{
+  background-color: #AF7AB3;
+  font-family: 'Merriweather', serif;
+  margin-top:  0;
+text-align: center;
+}
+.bottom-cloud{
+position: absolute;
+left: 350px;
+bottom:  300px;
+}
+.top-cloud{
+position: absolute;
+right: 350px;
+top: 50px;
+}
